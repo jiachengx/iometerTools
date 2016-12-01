@@ -2,7 +2,7 @@ rem Nand Flash Write amplification Factor Measurement using iometer
 rem WorkFlow: 
 rem Secure erase Nand Flash => Precondition => Write amplification Factor Measurement ==> Get smart data using CrystalDiskInfo app
 rem Tool nees:
-rem 1. CrystalDiskinfo 2. Iometer
+rem 1. CrystalDiskinfo 2. Iometer 3. se (3rd security erase tools)
 
 cls
 @echo off
