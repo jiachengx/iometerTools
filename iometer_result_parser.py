@@ -3,10 +3,7 @@
 # In[1]:
 
 # iometer result parser
-# Date: 2015/9/11	
-# Update: 2015/10/5 
 #/usr/bin/python
-
 
 # In[2]:
 
